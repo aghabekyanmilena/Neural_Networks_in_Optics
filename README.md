@@ -11,7 +11,7 @@ Clone the repository and navigate to the project directory.
 
 Ensure cleaned_weather.csv is in the same directory.
 
-Install the required Python libraries using:
+Install the required Python libraries
 
 Execute the script
 
